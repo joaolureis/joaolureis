@@ -1,4 +1,4 @@
-### Hi there! I'm Nathalli :raising_hand:
+### Hi there! I'm João Reis :raising_hand:
 
 I am currently studying **Systems Analysis and Development** at **SPTech School**.  
 
