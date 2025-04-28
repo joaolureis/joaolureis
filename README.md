@@ -15,8 +15,6 @@ I am currently studying **Systems Analysis and Development** at **SPTech School*
 
 ## 🛠️ Tech Stack  
 <div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
    <img align="center" alt="microsoftsqlserver" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img align="center" alt="js" height="30" width="40"
