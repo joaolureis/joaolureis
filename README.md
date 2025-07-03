@@ -1,17 +1,6 @@
 ### Hi there! I'm João Reis :raising_hand:
 
-I am currently studying **Systems Analysis and Development** at **SPTech School**.  
-
-## 💻 Technologies & Skills  
-🔹 **Programming Languages:** JavaScript  
-🔹 **Databases:** MySQL | SQLServer  
-🔹 **Version Control:** Git & GitHub  
-🔹 **Learning:** JavaScript | HTML | CSS  
-
-## 🚀 About Me  
-- 📚 Always learning and improving my skills  
-- 🤝 Open to collaboration on backend and frontend projects  
-
+I am currently studying **Systems Analysis and Development** at **SPTech School**. 
 
 ## 🛠️ Tech Stack  
 <div style="display: inline_block"><br>
@@ -22,7 +11,11 @@ I am currently studying **Systems Analysis and Development** at **SPTech School*
   <img align="center" alt="css" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
+  <img align="center" alt="MySQL" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Nodejs" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ##
