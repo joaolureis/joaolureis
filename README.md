@@ -25,7 +25,7 @@ I am currently studying **Systems Analysis and Development** at **SPTech School*
   <a href="https://github.com/joaolureis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-r-021b50225" target="_blank">
+  <a href="https://www.linkedin.com/in/joaolureis/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
