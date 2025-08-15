@@ -4,7 +4,9 @@ I am currently studying **Systems Analysis and Development** at **SPTech School*
 
 ## 🛠️ Tech Stack  
 <div style="display: inline_block"><br>
-    <img align="center" alt="js" height="30" width="40"
+ <img align="center" alt="Java" height="30" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="js" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="html" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
