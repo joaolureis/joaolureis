@@ -27,10 +27,6 @@ I'm João Reis, Systems Analyst at Vivo (Telefônica Brasil), working with Ident
 Currently pursuing a degree in Systems Analysis and Development at SPTech, with experience in software engineering, cloud concepts, React, Java (Spring Boot) and agile methodologies such as Scrum.
 </p>
 
-<p align="justify">
-I aim to build secure, scalable and well-structured systems, combining software development and information security practices.
-</p>
-
 ---
 
 ## GitHub Stats
