@@ -1,33 +1,78 @@
-### Hi there! I'm João Reis :raising_hand:
-
-I am currently studying **Systems Analysis and Development** at **SPTech School**. 
-
-## 🛠️ Tech Stack  
-<div style="display: inline_block"><br>
- <img align="center" alt="Java" height="30" width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="js" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="html" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
-  <img align="center" alt="MySQL" height="30" width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Nodejs" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A2342&section=header" />
 </div>
 
-##
- 
-## 📫 Let's Connect!  
-<div> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0A2342&width=900&size=22&center=true&lines=Hi,+I'm+João+Reis;IAM+%7C+CIAM+%7C+Information+Security;Systems+Analysis+and+Development+Student;Building+secure+and+scalable+solutions" />
+</div>
+
+<p align="center">
   <a href="https://github.com/joaolureis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0A2342?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joaolureis/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+<p align="justify">
+I'm João Reis, Systems Analyst at Vivo (Telefônica Brasil), working with Identity and Access Management (IAM) and Customer Identity (CIAM), focusing on authentication, authorization and digital identity.
+</p>
+
+<p align="justify">
+Currently pursuing a degree in Systems Analysis and Development at SPTech, with experience in software engineering, cloud concepts, React, Java (Spring Boot) and agile methodologies such as Scrum.
+</p>
+
+<p align="justify">
+I aim to build secure, scalable and well-structured systems, combining software development and information security practices.
+</p>
+
+---
+
+## GitHub Stats
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolureis&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaolureis&theme=github_dark) |
+| :-: | :-: |
+
+
+## Tech 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-0A2342?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0A2342?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0A2342?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0A2342?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0A2342?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0A2342?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0A2342?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-0A2342?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-0A2342?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-0A2342?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-0A2342?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0A2342?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+## Activity
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaolureis&theme=github-dark&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaolureis&theme=github_dark) |
+| :-: | :-: |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A2342&section=footer" />
 </div>
+``
