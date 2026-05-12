@@ -71,4 +71,3 @@ Currently pursuing a degree in Systems Analysis and Development at SPTech, with 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A2342&section=footer" />
 </div>
-``
