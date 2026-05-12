@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0A2342&width=900&size=22&center=true&lines=Hi,+I'm+João+Reis;IAM+%7C+CIAM+%7C+Information+Security;Systems+Analysis+and+Development+Student;Building+secure+and+scalable+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0A2342&width=900&size=22&center=true&lines=Hi,+I'm+Joao+Reis;IAM+%7C+CIAM+%7C+Information+Security;Systems+Analysis+and+Development+Student" />
 </div>
 
 <p align="center">
